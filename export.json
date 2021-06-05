@@ -1974,7 +1974,7 @@
                 "template": "page",
                 "stackbit_url_path": "/about",
                 "content": " ",
-                            }
+        }
         },
         {
             "modelType": "page",
